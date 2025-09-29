@@ -7,7 +7,7 @@ icon: message
 
 ## Is Revix compatible with latest Pterodactyl?
 
-Yes, Revix is indeed compatible with Pterodactyl (v1.11.11 as of now.)
+Yes, Revix is indeed compatible with Pterodactyl (v1.11.13 as of now.)
 
 ## Is Revix Free?
 
